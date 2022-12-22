@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](WelcomeTo.svg)
+![](KainkunWave.gif)
 ![](Kainkun.gif)
 
 <!--
