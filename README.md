@@ -9,8 +9,9 @@
   <img src="gameBoy.gif "width="50"/>
 </p>
 
+                                  
 <p align="center">
-  <img src="thisIs.gif" alt="This is"><br>
+  <img src="thisIs.gif" width="150" alt="This is"/><br>
   <img src="KainkunWaveCrop.gif" alt="Kainkun">
 </p>
 
