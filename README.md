@@ -8,3 +8,13 @@
   <br>
   <img src="KainkunWaveCrop.gif" alt="Kainkun">
 </p>
+
+<br>
+<br>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sarpanch&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=335&lines=You+are+visitor+number%3A)](https://git.io/typing-svg)  
+  ![Visitor Count](https://profile-counter.glitch.me/Kainkun/count.svg)
+
+</div>
